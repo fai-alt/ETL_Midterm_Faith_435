@@ -56,6 +56,8 @@ This project demonstrates the ETL (Extract, Transform, Load) process using a sam
 
 ## Screenshot or Chart
 
+![image](https://github.com/user-attachments/assets/2a041416-c1a9-4645-a889-c22afbf82dbb)
+
 
 ---
 
