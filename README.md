@@ -56,6 +56,17 @@ This project demonstrates the ETL (Extract, Transform, Load) process using a sam
 
 ## Screenshot or Chart
 
+### 1. Number of Orders per Region
+![Bar plot of orders per region](transformed/bar_orders_per_region.png)
+*This bar chart shows the distribution of orders across different regions, highlighting which regions have the highest and lowest sales activity.*
+
+### 2. Total Price Distribution by Product
+![Boxplot of total price by product](transformed/box_total_price_by_product.png)
+*This boxplot visualizes the spread and central tendency of total sales price for each product type, helping to identify products with higher price variability or outliers.*
+
+### 3. Number of Orders per Month
+![Line plot of orders per month](transformed/line_orders_per_month.png)
+*This line plot displays the trend of order counts over different months, revealing any seasonality or monthly sales patterns in the dataset.*
 
 ---
 
